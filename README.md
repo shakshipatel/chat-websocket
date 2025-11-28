@@ -6,7 +6,7 @@ A modern, real-time AI chatbot application built with React, TypeScript, and Web
 
 ## 📺 Demo Video
 
-🎥 **[Watch Demo Video]("")**
+🎥 **[Watch Demo Video]("https://www.loom.com/share/9d0019ef600d4edfbd862ec022d29c9f")**
 
 ---
 
@@ -350,3 +350,4 @@ copies or substantial portions of the Software.
 <p align="center">
   Made with ❤️ by Shakshi
 </p>
+
