@@ -1,0 +1,22 @@
+{
+    "name": "chat-backend",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "tsx watch src/index.ts",
+        "start": "node dist/index.js",
+        "build": "tsc"
+    },
+    "dependencies": {
+        "ws": "^8.14.2",
+        "@google/generative-ai": "^0.21.0",
+        "dotenv": "^16.3.1",
+        "uuid": "^9.0.1"
+    },
+    "devDependencies": {
+        "@types/ws": "^8.5.10",
+        "@types/uuid": "^9.0.7",
+        "tsx": "^4.6.2",
+        "typescript": "^5.3.3"
+    }
+}
